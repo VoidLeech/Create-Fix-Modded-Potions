@@ -1,4 +1,4 @@
-// 1.20.1	2024-09-03T11:32:11.6637155	Registrate Provider for create [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+// 1.20.1	2024-12-22T17:16:06.8679772	Registrate Provider for create [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
 60bbdf92d2ac9824ea6144955c74043a6005f79d assets/create/blockstates/acacia_window.json
 6a67703c2697d81b7dc83e9d72a66f9c9ff08383 assets/create/blockstates/acacia_window_pane.json
 c3ae87b62e81d8e9476eccd793bb1548d74c66a1 assets/create/blockstates/adjustable_chain_gearshift.json
@@ -585,8 +585,8 @@ b0d8f08968763a5f74e5cd5644377a76a9f39753 assets/create/blockstates/yellow_toolbo
 fe8c497aacc641c2f01cec90bba9f19e59cc2ed2 assets/create/blockstates/yellow_valve_handle.json
 e819e93fdcbe9fd9c050a052d2718ff3b3539365 assets/create/blockstates/zinc_block.json
 64121dcb216381c83b4fe28aa361ea07c24c9ad0 assets/create/blockstates/zinc_ore.json
-1195fdc4fb51659c921e2bbe744a35107f787aa2 assets/create/lang/en_ud.json
-632d1aac7255fc0f4804f4df138ce9926134d2f9 assets/create/lang/en_us.json
+5f729ba3f0557eb1c1923a091e06eee5ddf25c59 assets/create/lang/en_ud.json
+bdd95ac05db0717d02e4dc34b6054e73d4eee640 assets/create/lang/en_us.json
 a97e1060e00ae701a02e39cd4ef8054cf345fac4 assets/create/models/block/acacia_window.json
 103e032c0b1a0a6a27c67da8c91179a564bd281c assets/create/models/block/acacia_window_pane_noside.json
 fb00b627abda76ad4fea867ca57dbfadd24fffa3 assets/create/models/block/acacia_window_pane_noside_alt.json
@@ -4179,6 +4179,10 @@ f675c20350ed60da4878b5d6301f02c8c05624bd data/create/tags/blocks/fan_processing_
 6858173c670bb593664ac3c62ded726d57d581f1 data/create/tags/blocks/fan_transparent.json
 2589b135c0e96ad29076569e144528fe32ea5b39 data/create/tags/blocks/girdable_tracks.json
 02c0a018f2b8540dc2f1fb420172cc716552f321 data/create/tags/blocks/movable_empty_collider.json
+edf94f921781e796e4a2117a0c0d93bd9683753b data/create/tags/blocks/mushroom_stems.json
+a746d54a67450dee14671aba209d794c876491ab data/create/tags/blocks/non_decaying_leaf_dist1.json
+45f6a1c0b581bfb65cf0a11c4c5421b4481bdf09 data/create/tags/blocks/non_decaying_leaf_dist2.json
+7c9c77e740cdcf8b608069d8a5f2375a47edf1b4 data/create/tags/blocks/non_decaying_leaf_dist3.json
 4970078b49ddac1b1d500ed0469cedf42bdc3d35 data/create/tags/blocks/non_movable.json
 06e13efbb7b0d09ff7ecd1a7dc45a0760b91ad67 data/create/tags/blocks/ore_override_stone.json
 a5874f73c7dc0a3ae12999e6ae8abf45bc7fb9be data/create/tags/blocks/passive_boiler_heaters.json
@@ -4189,6 +4193,7 @@ a5874f73c7dc0a3ae12999e6ae8abf45bc7fb9be data/create/tags/blocks/passive_boiler_
 2589b135c0e96ad29076569e144528fe32ea5b39 data/create/tags/blocks/tracks.json
 1b6977d9a399cf6ee042e3f8f5e64e4d3cda5489 data/create/tags/blocks/tree_attachments.json
 da739ad2160e7df4e0e5cc89587670ce5e9450c3 data/create/tags/blocks/valve_handles.json
+d7e366cb3ebabc27b4c558ad4e7087379ca1d6f8 data/create/tags/blocks/vertical_plants.json
 72143286fb5cb372a0696550e2eac76ca50e6fbc data/create/tags/blocks/windmill_sails.json
 58987ea71d488cc48192ceb00c00aa2903e51304 data/create/tags/blocks/wrench_pickup.json
 76c0522664726c09461ad4565b6fba80b4f816b2 data/create/tags/entity_types/blaze_burner_capturable.json

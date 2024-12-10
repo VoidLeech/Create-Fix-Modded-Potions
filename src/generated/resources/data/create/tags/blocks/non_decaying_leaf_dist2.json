@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:red_mushroom_block",
+    {
+      "id": "aether_redux:cloud_cap_block",
+      "required": false
+    },
+    {
+      "id": "aether_redux:jellyshroom_jelly_block",
+      "required": false
+    },
+    {
+      "id": "deep_aether:lightcap_mushroom_block",
+      "required": false
+    }
+  ]
+}

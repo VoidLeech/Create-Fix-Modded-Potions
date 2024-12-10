@@ -487,18 +487,10 @@ public class SawBlockEntity extends BlockBreakingKineticBlockEntity {
 			return true;
 		if (TreeCutter.isRoot(stateToBreak))
 			return true;
+		if (TreeCutter.isVerticalPlant(stateToBreak))
+			return true;
 		Block block = stateToBreak.getBlock();
-		if (block instanceof BambooStalkBlock)
-			return true;
 		if (block instanceof StemGrownBlock)
-			return true;
-		if (block instanceof CactusBlock)
-			return true;
-		if (block instanceof SugarCaneBlock)
-			return true;
-		if (block instanceof KelpPlantBlock)
-			return true;
-		if (block instanceof KelpBlock)
 			return true;
 		if (block instanceof ChorusPlantBlock)
 			return true;
