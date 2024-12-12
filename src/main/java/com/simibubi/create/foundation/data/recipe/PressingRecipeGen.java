@@ -92,7 +92,10 @@ public class PressingRecipeGen extends ProcessingRecipeGen {
 
 		VMP_CURSED_PATH_GRASS = create("cursed_earth_path_from_grass", b -> b.require(Mods.VMP, "cursed_grass")
 				.output(Mods.VMP, "cursed_earth_path")
-					.whenModLoaded(Mods.VMP.getId()))
+					.whenModLoaded(Mods.VMP.getId())),
+
+		// Deep Aether
+		D_AET_GOLDEN_DIRT_PATH = moddedCompacting(Mods.D_AET, "golden_heights_grass_block", "golden_heights_dirt_path");
 
 
 	;
