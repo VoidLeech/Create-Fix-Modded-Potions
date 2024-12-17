@@ -61,6 +61,7 @@ public class FillingRecipeGen extends ProcessingRecipeGen {
 			.require(AllItems.CINDER_FLOUR.get())
 			.output(Items.GLOWSTONE_DUST)),
 
+		// Compat
 
 		AM_LAVA = create(Mods.AM.recipeId("lava_bottle"), b -> b.require(Fluids.LAVA, 250)
 			.require(Items.GLASS_BOTTLE)
@@ -88,7 +89,12 @@ public class FillingRecipeGen extends ProcessingRecipeGen {
 		VMP_CURSED_GRASS = create(Mods.VMP.recipeId("cursed_grass"), b -> b.require(Fluids.WATER, 500)
 			.require(Mods.VMP, "cursed_earth")
 			.output(Mods.VMP, "cursed_grass")
-			.whenModLoaded(Mods.VMP.getId()));
+			.whenModLoaded(Mods.VMP.getId())),
+
+		UG_DEEPTURF = create(Mods.UG.recipeId("deepturf"), b -> b.require(Fluids.WATER, 500)
+				.require(Mods.UG, "deepsoil")
+				.output(Mods.UG, "deepturf_block")
+				.whenModLoaded(Mods.UG.getId()))
 
 	;
 

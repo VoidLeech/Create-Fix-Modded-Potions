@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gardens_of_the_dead"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "gardens_of_the_dead:whistlecane_block"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 3,
+      "item": "gardens_of_the_dead:whistlecane_planks"
+    }
+  ]
+}
