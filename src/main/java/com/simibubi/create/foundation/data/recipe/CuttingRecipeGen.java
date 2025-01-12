@@ -164,23 +164,7 @@ public class CuttingRecipeGen extends ProcessingRecipeGen {
 		WSP = cuttingCompat(Mods.WSP, "holly", "chestnut"),
 
 		// Good Ending
-		GOOD = cuttingCompat(Mods.GOOD, "muddy_oak", "cypress"),
-
-	    // Gardens of the Dead
-	    GOTD_1 = stripAndMakePlanks(Mods.GOTD, "soulblight_stem", "stripped_soulblight_stem", "soulblight_planks"),
-
-		GOTD_2 = stripAndMakePlanks(Mods.GOTD, "soulblight_hyphae", "stripped_soulblight_hyphae", "soulblight_planks"),
-
-		GOTD_3 = create("compat/gardens_of_the_dead/whistlecane_block", b -> b.duration(50)
-				.require(Mods.GOTD, "whistlecane_block")
-				.output(1f, Mods.GOTD, "whistlecane_planks", 3)
-				.whenModLoaded(Mods.GOTD.getId())),
-
-		// Undergarden
-		UG = cuttingCompat(Mods.UG, "wigglewood", "grongle", "smogstem"),
-
-	    // Deeper & Darker (Echo already provided by them)
-	    DD = stripAndMakePlanks(Mods.DD, "blooming_stem", "stripped_blooming_stem", "bloom_planks")
+		GOOD = cuttingCompat(Mods.GOOD, "muddy_oak", "cypress")
 
 		;
 

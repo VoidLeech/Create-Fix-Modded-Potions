@@ -1,4 +1,4 @@
-// 1.20.1	2024-12-17T01:08:14.1362819	Create's Processing Recipes
+// 1.20.1	2025-01-12T22:56:53.2442875	Create's Processing Recipes
 3c94326fb730f68c1e44fe1e2ef09c9db6ffd92b data/create/recipes/compacting/andesite_from_flint.json
 8d3d5b31f3601b9f681ff710e0545a483a1494c6 data/create/recipes/compacting/blaze_cake.json
 8bd7f4e3a686ab520b2d55594d2018d0e9a50c91 data/create/recipes/compacting/chocolate.json
@@ -411,8 +411,6 @@ f4283de13917784d85c0ba84f68424ec8b69545f data/create/recipes/cutting/compat/byg/
 88b328cf0c0a02f296056abb423e4f3745e5ab4d data/create/recipes/cutting/compat/byg/witch_hazel_wood.json
 31a331b2294c726f0e6b4573b1db14c2423116b2 data/create/recipes/cutting/compat/byg/zelkova_log.json
 f249713773128375a0869a8df3205b384e2b54f4 data/create/recipes/cutting/compat/byg/zelkova_wood.json
-c4f0088da365b86d22cf4a7e4d75a3e0d187af46 data/create/recipes/cutting/compat/deeperdarker/blooming_stem.json
-7777175db6ead8458694f06955753f2f251153e1 data/create/recipes/cutting/compat/deeperdarker/stripped_blooming_stem.json
 363da3d703f57ccac27632b573734a940799374b data/create/recipes/cutting/compat/ecologics/azalea_log.json
 052c45bc088143aae8508af521a8f91a2c263459 data/create/recipes/cutting/compat/ecologics/azalea_wood.json
 10b5a67570271c02e12d3d46e48c2ed8fe2fd2fb data/create/recipes/cutting/compat/ecologics/coconut_log.json
@@ -445,11 +443,6 @@ bfa59f4024105be24f441ec9e1fe2394bb4c32ed data/create/recipes/cutting/compat/envi
 b08980c7deb9a4de4983fdae188f0c5ac627c1e5 data/create/recipes/cutting/compat/forbidden_arcanus/aurum_wood.json
 47902025354c45f34fa62402fc5f32db6648a7c3 data/create/recipes/cutting/compat/forbidden_arcanus/stripped_aurum_log.json
 f8f97315cfcd7e76229b9856ca6b2942bd7754f5 data/create/recipes/cutting/compat/forbidden_arcanus/stripped_aurum_wood.json
-02534cf1836a3b8a5bf796f05b844288ac0aef35 data/create/recipes/cutting/compat/gardens_of_the_dead/soulblight_hyphae.json
-f0508f366dd39dbc2c33b62a62ff6b2c7bb26280 data/create/recipes/cutting/compat/gardens_of_the_dead/soulblight_stem.json
-6f1bb7386b7695bc86a068ad645ee3a1680f966d data/create/recipes/cutting/compat/gardens_of_the_dead/stripped_soulblight_hyphae.json
-1f3c49eaf0a4785a36cef75315c593325b689f63 data/create/recipes/cutting/compat/gardens_of_the_dead/stripped_soulblight_stem.json
-3856481073aa349b24750b19be88abf986a9db4d data/create/recipes/cutting/compat/gardens_of_the_dead/whistlecane_block.json
 c6e138b6adf0311deebeff7cacdcdb57337f41da data/create/recipes/cutting/compat/goodending/cypress_log.json
 cac6d3d763a3909d9a1f3eebe83190013e323e8a data/create/recipes/cutting/compat/goodending/cypress_wood.json
 a3664dc30807cbc7903f79944bfb9b7d08a91671 data/create/recipes/cutting/compat/goodending/muddy_oak_log.json
@@ -634,18 +627,6 @@ d9ea151935b7257f9a799be5959d736a20eabf44 data/create/recipes/cutting/compat/twil
 29649f4c23ddc00eebe7352dcca0d4c695807c62 data/create/recipes/cutting/compat/twilightforest/transformation_wood.json
 10227f5cf8a9995f7e59c509ad20a33f907a1203 data/create/recipes/cutting/compat/twilightforest/twilight_oak_log.json
 60c949a998c4ffe6f838faf729ef9a7a247a59df data/create/recipes/cutting/compat/twilightforest/twilight_oak_wood.json
-3af83959a50e4739b0c5f2a5f7bc6fe2eb2c50a0 data/create/recipes/cutting/compat/undergarden/grongle_log.json
-cf3e5959de62ff6456a0c83820646094d8bc5676 data/create/recipes/cutting/compat/undergarden/grongle_wood.json
-e5ecd68e24d8dbc1c7e96819f2531bfcb3d632ad data/create/recipes/cutting/compat/undergarden/smogstem_log.json
-120ae121557fc2d737e8ee9972b375706abd07f2 data/create/recipes/cutting/compat/undergarden/smogstem_wood.json
-998321659d1ae2fd0aa7dac7286c7998f546254b data/create/recipes/cutting/compat/undergarden/stripped_grongle_log.json
-4df4d350e5b47cda77a2c541af4a7df0ff287dd8 data/create/recipes/cutting/compat/undergarden/stripped_grongle_wood.json
-4a9bf6048e7f19b04e5bffcf1060cf4289497c4b data/create/recipes/cutting/compat/undergarden/stripped_smogstem_log.json
-0d50d6ea26d910ffa596ff090db4c6783f3fbe48 data/create/recipes/cutting/compat/undergarden/stripped_smogstem_wood.json
-688d40173d405cbce16db0415dde47dfc51a7a30 data/create/recipes/cutting/compat/undergarden/stripped_wigglewood_log.json
-22da7a3d52c25cc994e6843761c9f25aa0abc18c data/create/recipes/cutting/compat/undergarden/stripped_wigglewood_wood.json
-f59251ce841966799deaed8ec68e2910e7469837 data/create/recipes/cutting/compat/undergarden/wigglewood_log.json
-5ac3d8c9f201b7b36d53037c858961fdb0078591 data/create/recipes/cutting/compat/undergarden/wigglewood_wood.json
 b6c3111236dea7685ed893a2ddab6bacbb606170 data/create/recipes/cutting/compat/upgrade_aquatic/driftwood.json
 b86b4710a31b8ab98d3f61972fd0e3a80d1cb788 data/create/recipes/cutting/compat/upgrade_aquatic/driftwood_log.json
 1a155ced39a05ccbaa1fcd57052c8acced381860 data/create/recipes/cutting/compat/upgrade_aquatic/river_log.json
